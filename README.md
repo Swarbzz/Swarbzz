@@ -1,19 +1,19 @@
 # George Swarbrick
 
-I am an intuitive and focused individual with impeccable verbal and written communication skills and as i've written that i've given myself immense pressure not to have any spelling errors from now on. I have been in several fringe theatre performances in London which have given me a great deal of confidence with public speaking, teamwork, coordination and memory. I’m a creative person with an interest in the arts and various different forms of media. What brought me to coding is the constant joy of small and successful small steps witin my code such as problem solving. I suppose that is what all humans crave, small pats on the back, be it from yourself or others; recognision. 
+I am an intuitive and focused individual with impeccable verbal and written communication skills and as i've written that i've given myself immense pressure not to have any spelling errors from now on. I have been in several fringe theatre performances in London which have given me a great deal of confidence and experience with public speaking, teamwork, coordination and memory. I’m a creative person with an interest in the arts and various different forms of media. What brought me to coding is the constant joy of small and successful small steps witin my code such as problem solving. I suppose that is what all humans crave, small pats on the back, be it from yourself or others; recognision. 
 
-## Skills
+### Skills
 I'm not entirely sure what skills would be relevent to software design other than the typical i'm a nice guy who just wants to do his best. No one is ever going to be the best at what they do, but you can always do your best. 
 
 #### I do the thing
 
-Whether or not you can call this a skill or some sort of OCD it is up to your discretion. However i have an uncanny ability to be comsumed by what i am doing until i get it done. This could mean sleepless nights, arriving a hour eary and spending too muhc money on coffees. I suppose its just the fear of failing that causes it. Call it a skill or just me being me. Though this skill has mean i've kept up to date with the workload that has been given to me. 
+Whether or not you can call this a skill or some sort of OCD it is up to your discretion. However i have an uncanny ability to be comsumed by what i am doing until i get it done. This could mean sleepless nights, arriving a hour eary and spending too much money on coffees. I suppose its just the fear of failing that causes it. Call it a skill or just me being me. Though this 'skill' has mean i've kept up to date with the workload that has been given to me. 
 
 #### Trustworthy 
 
 Throughout my career people seem to be able to trust me, through no fault of my own. I list a few examples below in my career history and at the risk of repeating myself i'll name a couple of examples that i know i missed out. I was a restaurant supervisor at the time; i had a table; they left and didn't pay. This is ultimatley my fault. I was informed by my superiors and i immediately offered to pay for their bill as i recognised it was my wrong doing. In time this sort of ethos lead to my promotion to restaurant manager and with that more trust. 
 
-# Education
+# Education & Technical Skills
 
 #### Makers Academy (February - May 2020)
 
@@ -21,6 +21,8 @@ Throughout my career people seem to be able to trust me, through no fault of my 
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
+- HTML/CSS
+- Bootstrap
 
 #### 2011- 2014: University of Newcastle 
 
