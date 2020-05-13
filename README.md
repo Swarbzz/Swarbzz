@@ -29,14 +29,14 @@ Throughout my career people seem to be able to trust me, through no fault of my 
 - Studied for a B.A. (Hons) in Ancient History & Archaeology, achieved a 2:1
 - Ancient History & Archaeology => Coding, who would have thought it? 
 
-##### 2003-2010: The Perse School, Cambridge 
+#### 2003-2010: The Perse School, Cambridge 
 
 - A Levels: History-B, Politics-B, English Literature-B
 
 ## Experience
+> **Shop Manager from June 2018 – July 2019:**
 
-#### Shop Manager:
-June 2018 – July 2019: I was a manager at the Butcher & Bab based in Liverpool Street, London. It is a
+I was a manager at the Butcher & Bab based in Liverpool Street, London. It is a
 food unit that specialises in guilt-free gourmet kebabs. I was in charge of orders and prep, as well as
 serving during service and opening and closing the shop itself. I was also in charge of ordering certain
 products and developing a relationship with our suppliers. Throughout my time there I spearheaded 
@@ -47,14 +47,13 @@ great trust in me, this meant that they could safely go away on holiday for a fe
 in Liverpool Street is their first shop, thus the trust they had in me was significant enough for them them to 
 leave me in charge of their introduction into the entrepreneurial world.
 
-##### Bartender/Floor Supervisor/Restaurant Manager:
-February 2017 – May 2018: I worked at The Red Lion Pub in Leytonstone as a bartender, then as a waiter. Then I was promoted to floor supervisor and again to restaurant/floor manager. My roles developed throughout my time and by the end of it I had built a good relationship with my employers, enough for them to trust me to be in charge of food related documentation and opening and closing the pub/venue. I trained new employees of the company and built a rapport with them so they didn’t feel scared to approach me should something go wrong. 
+> **Bartender/Floor Supervisor/Restaurant Manager from February 2017 – May 2018:**
 
-##### Venue Manager:
-December 2016 – February 2017: I occasionally work for The Lion and Unicorn Theatre in Kentish town where I act as the active manager when the owner isn’t there, making sure the director and cast are all sorted with their needs. I was responsible for getting the audience in on time with the schedule that had been arranged with the director beforehand. I sorted out seats, ensuring that the theatre did not go over capacity and managed the money through tickets. 
+I worked at The Red Lion Pub in Leytonstone as a bartender, then as a waiter. Then I was promoted to floor supervisor and again to restaurant/floor manager. My roles developed throughout my time and by the end of it I had built a good relationship with my employers, enough for them to trust me to be in charge of food related documentation and opening and closing the pub/venue. I trained new employees of the company and built a rapport with them so they didn’t feel scared to approach me should something go wrong. 
 
-##### Events & Office Administrator:
-February 2015 – July 2016: I worked as an events and office administrator at the Cambridge Union Society. My main roles were speaking and meeting with clients for their events at our venue, organising the Union’s calendar so everyone knew what is going on, so there were no conflicts. I made sure people knew what they needed to do during an event and to fulfil as many needs that the client may have had. I built relationships with clients in order for them to consider us again as a venue should they choose to have another conference/event with us.
+> **Events & Office Administrator from February 2015 – July 2016:**
+
+I worked as an events and office administrator at the Cambridge Union Society. My main roles were speaking and meeting with clients for their events at our venue, organising the Union’s calendar so everyone knew what is going on, so there were no conflicts. I made sure people knew what they needed to do during an event and to fulfil as many needs that the client may have had. I built relationships with clients in order for them to consider us again as a venue should they choose to have another conference/event with us.
 
 # Interests and Achievements
 
