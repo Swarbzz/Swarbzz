@@ -63,6 +63,15 @@ I worked at The Red Lion Pub in Leytonstone as a bartender, then as a waiter. Th
 
 I worked as an events and office administrator at the Cambridge Union Society. My main roles were speaking and meeting with clients for their events at our venue, organising the Union’s calendar so everyone knew what is going on, so there were no conflicts. I made sure people knew what they needed to do during an event and to fulfil as many needs that the client may have had. I built relationships with clients in order for them to consider us again as a venue should they choose to have another conference/event with us.
 
+# Projects
+
+| Title | Description|
+| ----- | ---------- |
+| Acebook (RoR) | A Facebook Clone |
+| Airport (JS) | A program that simulates an airpiort |
+| Community Video (RoR) | A unique web app that we built during the CO-VID 19 outbreak to help out individual communties connect through tutorial videos |
+| Note App (JS) | A simple app where you can jote down your notes| 
+
 # Interests and Achievements
 
 During my time in education I attended as many plays as I could. I also was in the school teams for rugby and hockey. I’ve been around Europe, seen a lot of different places and met a lot of different people. I’ve been to New York and Dublin just to see plays. My interests lie in theatre, hanging out with my friends and playing games (sports or video, mostly the latter). 
