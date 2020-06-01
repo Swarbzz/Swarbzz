@@ -8,7 +8,7 @@ Portfolio: https://github.com/Swarbzz
 
 ---
 
-I am an intuitive and focused individual with impeccable verbal and written communication skills and as i've written that i've given myself immense pressure not to have any spelling errors from now on. I have been in several fringe theatre performances in London which have given me a great deal of confidence and experience with public speaking, teamwork, coordination and memory. I’m a creative person with an interest in the arts and various different forms of media. What brought me to coding is the constant joy of small and successful small steps witin my code such as problem solving. I suppose that is what all humans crave, small pats on the back, be it from yourself or others; recognision. 
+I am an intuitive and focused individual with impeccable verbal and written communication skills and as I've written that I've given myself immense pressure not to have any spelling errors from now on. I have been in several fringe theatre performances in London which have given me a great deal of confidence and experience with public speaking, teamwork, coordination and memory. I’m a creative person with an interest in the arts and various different forms of media. What brought me to coding is the constant joy of small and successful small steps witin my code such as problem solving. I suppose that is what all humans crave, small pats on the back, be it from yourself or others; recognition. 
 
 ### Skills
 I'm not entirely sure what skills would be relevent to software design other than the typical i'm a nice guy who just wants to do his best. No one is ever going to be the best at what they do, but you can always do your best. 
