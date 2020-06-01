@@ -65,13 +65,12 @@ I worked as an events and office administrator at the Cambridge Union Society. M
 
 # Projects
 
-| Title | Description|
-| ----- | ---------- |
-| Pong(JS using ES6) | An unbeatable replica of the 1972 Pong game
-| Acebook (RoR) | A Facebook Clone |
-| Airport (JS) | A program that simulates an airpiort |
-| Community Video (RoR) | A unique web app that we built during the CO-VID 19 outbreak to help out individual communties connect through tutorial videos |
-| Note App (JS) | A simple app where you can jote down your notes| 
+| Title | Description| Link|
+| ----- | ---------- |------|
+| Pong(JS using ES6) | An unbeatable replica of the 1972 Pong game | https://github.com/Swarbzz/Pong-JavaScript |
+| Acebook (RoR) | A Facebook Clone | https://github.com/Swarbzz/acebook-return-to-_sleep-|
+| Airport (JS) | A program that simulates an airpiort | https://github.com/Swarbzz/Airport-Challenge-JavaScript |
+| Community Video (RoR) | A unique web app that we built during the CO-VID 19 outbreak to help out individual communties connect through tutorial videos | https://github.com/jamesoddy8/co-vid20-20|
 
 # Interests and Achievements
 
