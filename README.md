@@ -67,6 +67,7 @@ I worked as an events and office administrator at the Cambridge Union Society. M
 
 | Title | Description|
 | ----- | ---------- |
+| Pong(JS using ES6) | An unbeatable replica of the 1972 Pong game
 | Acebook (RoR) | A Facebook Clone |
 | Airport (JS) | A program that simulates an airpiort |
 | Community Video (RoR) | A unique web app that we built during the CO-VID 19 outbreak to help out individual communties connect through tutorial videos |
