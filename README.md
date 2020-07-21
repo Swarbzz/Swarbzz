@@ -5,11 +5,11 @@ Email: glswarbrik@hotmail.co.uk
 Portfolio: https://github.com/Swarbzz
 
 ---
-<h2 align="center">
+<h3 align="center">
 
 
 I am an intuitive and focused individual with impeccable verbal and written communication skills and as I've written that I've given myself immense pressure not to have any spelling errors from now on. I have been in several fringe theatre performances in London which have given me a great deal of confidence and experience with public speaking, teamwork, coordination and memory. I’m a creative person with an interest in the arts and various different forms of media. What brought me to coding is the constant joy of small and successful small steps witin my code such as problem solving. I suppose that is what all humans crave, small pats on the back, be it from yourself or others; recognition. 
-</h2>
+</h3>
 
 # Current WIP Projects
 
