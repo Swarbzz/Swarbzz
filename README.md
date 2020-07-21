@@ -2,13 +2,27 @@
 
 Email: glswarbrik@hotmail.co.uk
 
-Mob: email me 
-
 Portfolio: https://github.com/Swarbzz
 
 ---
 
 I am an intuitive and focused individual with impeccable verbal and written communication skills and as I've written that I've given myself immense pressure not to have any spelling errors from now on. I have been in several fringe theatre performances in London which have given me a great deal of confidence and experience with public speaking, teamwork, coordination and memory. I’m a creative person with an interest in the arts and various different forms of media. What brought me to coding is the constant joy of small and successful small steps witin my code such as problem solving. I suppose that is what all humans crave, small pats on the back, be it from yourself or others; recognition. 
+
+# Current WIP Projects
+
+| Title | Description | Link|
+| ----- | ------------ | ----|
+| Super Mario (JavaScript) | The original Super Mario for the SNES| https://supermarioinjs.herokuapp.com|
+| Second Life | A app that allows the user to put down the location of unused items for other users to collect for free. Upcycling at its finest| https://second-life-app.herokuapp.com|
+
+# Projects
+
+| Title | Description| Link|
+| ----- | ---------- |------|
+| Pong(JS using ES6) | An unbeatable replica of the 1972 Pong game | https://pong-js-es6.herokuapp.com |
+| Acebook (RoR) | A Facebook Clone | https://secret-beach-41388.herokuapp.com|
+| Airport (JS) | A program that simulates an airpiort | https://github.com/Swarbzz/Airport-Challenge-JavaScript |
+| Community Video (RoR) | A unique web app that we built during the CO-VID 19 outbreak to help out individual communties connect through tutorial videos | https://github.com/jamesoddy8/co-vid20-20|
 
 ### Skills
 I'm not entirely sure what skills would be relevent to software design other than the typical i'm a nice guy who just wants to do his best. No one is ever going to be the best at what they do, but you can always do your best. 
@@ -31,6 +45,8 @@ Throughout my career people seem to be able to trust me, through no fault of my 
 - RSpec, Jasmine
 - HTML/CSS
 - Bootstrap
+- Node.js 
+- React
 
 #### 2011- 2014: University of Newcastle 
 
@@ -62,15 +78,6 @@ I worked at The Red Lion Pub in Leytonstone as a bartender, then as a waiter. Th
 > **Events & Office Administrator from February 2015 – July 2016:**
 
 I worked as an events and office administrator at the Cambridge Union Society. My main roles were speaking and meeting with clients for their events at our venue, organising the Union’s calendar so everyone knew what is going on, so there were no conflicts. I made sure people knew what they needed to do during an event and to fulfil as many needs that the client may have had. I built relationships with clients in order for them to consider us again as a venue should they choose to have another conference/event with us.
-
-# Projects
-
-| Title | Description| Link|
-| ----- | ---------- |------|
-| Pong(JS using ES6) | An unbeatable replica of the 1972 Pong game | https://github.com/Swarbzz/Pong-JavaScript |
-| Acebook (RoR) | A Facebook Clone | https://github.com/Swarbzz/acebook-return-to-_sleep-|
-| Airport (JS) | A program that simulates an airpiort | https://github.com/Swarbzz/Airport-Challenge-JavaScript |
-| Community Video (RoR) | A unique web app that we built during the CO-VID 19 outbreak to help out individual communties connect through tutorial videos | https://github.com/jamesoddy8/co-vid20-20|
 
 # Interests and Achievements
 
