@@ -1,6 +1,6 @@
 # George Swarbrick
 
-Email: glswarbrik@hotmail.co.uk
+Email: glswarbrick@hotmail.co.uk
 
 Portfolio: https://github.com/Swarbzz
 
