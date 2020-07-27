@@ -15,7 +15,7 @@ I am an intuitive and focused individual with impeccable verbal and written comm
 
 | Title | Description | Link|
 | ----- | ------------ | ----|
-| Super Mario (JavaScript) | The original Super Mario for the SNES| https://supermarioinjs.herokuapp.com|
+| Super Mario (JavaScript) | The original Super Mario for the NES| https://supermarioinjs.herokuapp.com|
 | Second Life | A app that allows the user to put down the location of unused items for other users to collect for free. Upcycling at its finest| https://second-life-app.herokuapp.com|
 
 # Projects
