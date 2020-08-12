@@ -28,11 +28,22 @@ I am an intuitive and focused individual with impeccable verbal and written comm
 | Community Video (RoR) | A unique web app that we built during the CO-VID 19 outbreak to help out individual communties connect through tutorial videos | https://github.com/jamesoddy8/co-vid20-20|
 
 ### Skills
-I'm not entirely sure what skills would be relevent to software design other than the typical i'm a nice guy who just wants to do his best. No one is ever going to be the best at what they do, but you can always do your best. 
 
-#### I do the thing
+#### I perform well under pressure/public speaking
 
-Whether or not you can call this a skill or some sort of OCD it is up to your discretion. However i have an uncanny ability to be comsumed by what i am doing until i get it done. This could mean sleepless nights, arriving a hour eary and spending too much money on coffees. I suppose its just the fear of failing that causes it. Call it a skill or just me being me. Though this 'skill' has mean i've kept up to date with the workload that has been given to me. 
+During my time as an actor i performed in 9 off west end plays that require me to learn copious amounts of material by heart as i was more often than not a leading role. I would then have to perform in from of audiences of up to 100 people. This gave me great experence in coping with a lot of pressure, public speaking as well as giving a great performance. 
+
+#### I work well in a team
+
+With the above acting experience mentioned; this also meant working with a variety of different personalities in a large cast to work together to form a great show for paying customers. In my other jobs i was always liked by my employers to the point of getting promotions and, dare i say it, i am still friends with them now. When i was promoted my team always felt like they could approach me for help or advice. This has helped me greatly with pair programing, as i can get along with almost anyone and make good progress. 
+
+#### Time management 
+
+While working in Liverpool Street at a food unit i was in charge of ordering the stock of food everyday, as we prepared food fresh on the day. This require making the orders before the deadline as well as knowing what exactly to order and how much as we had limited space, so too much couscous coudl spell disaster and we would become entombed in wheat like the pharoahs of old. Whether or not you can call this a skill or some sort of OCD it is up to your discretion. However i have an uncanny ability to be comsumed by what i am doing until i get it done. This could mean sleepless nights, arriving a hour eary and spending too much money on coffees. I suppose its just the fear of failing that causes it. Call it a skill or just me being me. Though this 'skill' has mean i've kept up to date with the workload that has been given to me. 
+
+#### Creative
+
+Despite the laments of my father i do not take after his straight forward, bulldozer way of thinking. I'm a creative at heart; i think outside the box which helps me greatly with puzzles at work and in video games. I have made suggestions at my last two jobs that have improved efficientcy and safety. 
 
 #### Trustworthy 
 
@@ -42,12 +53,13 @@ Throughout my career people seem to be able to trust me, through no fault of my 
 
 #### Makers Academy (February - May 2020)
 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- We learnt the principles of OOP, TDD, MVC, DDD which i used in all of my projects.
+- Agile is very important to Makers way of work and therefore important to me as well. 
+- Ruby & JavaScript were the two main languages i learnt at Makers but we also learn the capacity to adapt to different languages easily as well. 
+- RSpec & Jasmine were our go to's when it came to testing. 
 - HTML/CSS
 - Bootstrap
+- Ruby on Rails is the main framework for most of my projects currently 
 - Node.js 
 - React
 
